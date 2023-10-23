@@ -3,7 +3,7 @@ module github.com/khulnasoft-labs/ratelimit
 go 1.19
 
 require (
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-labs/utils v0.0.46
 	github.com/stretchr/testify v1.8.4
 )
 
