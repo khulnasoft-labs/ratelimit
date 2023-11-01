@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/khulnasoft-labs/ratelimit"
+	"github.com/khulnasoft-lab/ratelimit"
 )
 
 func main() {

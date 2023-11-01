@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	errorutil "github.com/khulnasoft-labs/utils/errors"
+	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 
 var (

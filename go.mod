@@ -1,9 +1,9 @@
-module github.com/khulnasoft-labs/ratelimit
+module github.com/khulnasoft-lab/ratelimit
 
 go 1.19
 
 require (
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/stretchr/testify v1.8.4
 )
 

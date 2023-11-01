@@ -1,10 +1,10 @@
 # ratelimit
 
-[![License](https://img.shields.io/github/license/khulnasoft-labs/ratelimit)](LICENSE.md)
-![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-labs/ratelimit?filename=go.mod)
-[![Release](https://img.shields.io/github/release/khulnasoft-labs/ratelimit)](https://github.com/khulnasoft-labs/ratelimit/releases/)
-[![Checks](https://github.com/khulnasoft-labs/ratelimit/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-labs/ratelimit/actions/workflows/build-test.yml)
-[![GoDoc](https://pkg.go.dev/badge/khulnasoft-labs/ratelimit)](https://pkg.go.dev/github.com/khulnasoft-labs/ratelimit)
+[![License](https://img.shields.io/github/license/khulnasoft-lab/ratelimit)](LICENSE.md)
+![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-lab/ratelimit?filename=go.mod)
+[![Release](https://img.shields.io/github/release/khulnasoft-lab/ratelimit)](https://github.com/khulnasoft-lab/ratelimit/releases/)
+[![Checks](https://github.com/khulnasoft-lab/ratelimit/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-lab/ratelimit/actions/workflows/build-test.yml)
+[![GoDoc](https://pkg.go.dev/badge/khulnasoft-lab/ratelimit)](https://pkg.go.dev/github.com/khulnasoft-lab/ratelimit)
 
 A Golang rate limit implementation which allows burst of request during the defined duration.
 
@@ -27,7 +27,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/khulnasoft-labs/ratelimit"
+	"github.com/khulnasoft-lab/ratelimit"
 )
 
 func main() {

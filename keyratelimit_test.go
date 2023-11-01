@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/khulnasoft-labs/ratelimit"
+	"github.com/khulnasoft-lab/ratelimit"
 	"github.com/stretchr/testify/require"
 )
 
